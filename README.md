@@ -9,12 +9,6 @@ I'm a passionate web developer with a knack for creating beautiful and functiona
 - **Version Control**: Git, GitHub
 - **Other Tools**: Figma, Bootstrap, Tailwind CSS
 
-## 🛠️ Projects
-Here are a few projects I've worked on:
-
-1. **[Project 1](https://github.com/SriramBattineni/WebDevelopment)**  
-   *Description*: A brief overview of what this project does and the technologies used.
-   
 ## 📚 Current Learning
 I'm currently diving into:
 - TypeScript for better type safety
